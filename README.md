@@ -20,8 +20,6 @@ The dataset contains property details like area, bedrooms, bathrooms, building t
 
 ## 🗂 Dataset
 
-**Source:** `train-chennai-sale.csv`
-
 **Main Columns:**
 - `AREA` – House location  
 - `INT_SQFT` – Interior area in square feet  
